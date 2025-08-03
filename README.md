@@ -13,6 +13,18 @@ Improper segregation of biomedical waste is a major threat to public health and 
 
 Utilizing a **high-resolution camera**, the system captures real-time images and processes them using pretrained deep learning models. The model's output drives **servo motors** for automated waste sorting.
 
+<img width="999" height="407" alt="Image" src="https://github.com/user-attachments/assets/bdef0ad0-911d-460e-a19a-ff4e1382c520" />
+
+<img width="792" height="757" alt="Image" src="https://github.com/user-attachments/assets/dfb6c92a-52c3-435a-98fb-b83726ef6bce" />
+
+![Image](https://github.com/user-attachments/assets/6f8687a9-9b22-41cc-a43a-1906370a8a0b)
+
+![Image](https://github.com/user-attachments/assets/30be65e9-d39c-4da6-ae7a-d82eb32cfb45)
+
+![Image](https://github.com/user-attachments/assets/763959f9-cbf4-41fa-81cc-f8a31618bb8d)
+
+![Image](https://github.com/user-attachments/assets/aa31e1f1-ff2f-4e33-a4c2-66bd1034e5f4)
+
 ## 🧠 Technologies Used
 
 - **CNN**: Custom convolutional neural network with 4.8M parameters  
