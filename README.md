@@ -4,6 +4,8 @@ A real-time, intelligent biomedical waste classification system using **Vision T
 
 ## 🚀 Overview
 
+Dataset : https://app.roboflow.com/garbage-fobv5/biomedical_waste_classification-dbxry/1
+
 Improper segregation of biomedical waste is a major threat to public health and the environment. This project presents an **Edge-AI powered Smart Bin** that classifies biomedical waste into categories like:
 
 - 🔪 Sharps  
