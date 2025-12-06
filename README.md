@@ -95,6 +95,8 @@ ViT consistently outperformed other architectures in both **classification accur
 - Confusion matrix for per-class insights  
 - Training vs Validation Loss plotted over epochs  
 - Real-time video-based prediction visualizations  
+- Sample
+<img width="468" height="364" alt="image" src="https://github.com/user-attachments/assets/28909cd6-51c0-409a-98d4-be95a681037b" />
 
 ## 🔮 Future Work
 
