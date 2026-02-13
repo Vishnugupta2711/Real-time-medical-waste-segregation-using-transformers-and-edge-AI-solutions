@@ -27,7 +27,10 @@ Utilizing a **high-resolution camera**, the system captures real-time images and
 
 ![Image](https://github.com/user-attachments/assets/763959f9-cbf4-41fa-81cc-f8a31618bb8d)
 
-![Image](https://github.com/user-attachments/assets/aa31e1f1-ff2f-4e33-a4c2-66bd1034e5f4)
+
+
+<img width="514" height="694" alt="Your paragraph text" src="https://github.com/user-attachments/assets/5f68905d-d38b-4b40-bd43-d9561d2f5ff4" />
+
 
 ## 🧠 Technologies Used
 
