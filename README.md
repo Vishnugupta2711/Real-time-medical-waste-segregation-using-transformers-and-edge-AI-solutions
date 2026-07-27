@@ -2,6 +2,8 @@
 
 A real-time, intelligent biomedical waste classification system using **Vision Transformers (ViT)**, **YOLOv11**, **EfficientDet-Lite0**, and **Custom CNN**, deployed on edge devices like **Raspberry Pi**. The system aims to automate and optimize medical waste segregation for improved public health and environmental safety.
 
+Expl Video : https://www.youtube.com/shorts/wnGDNTNKzoQ
+
 ## 🚀 Overview
 
 Dataset Roboflow : https://app.roboflow.com/garbage-fobv5/biomedical_waste_classification-dbxry/1
